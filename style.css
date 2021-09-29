@@ -18,3 +18,41 @@ h1{
     font-weight: 500;
     margin-bottom: 20px;
 }
+table {
+  display: none;
+}
+.mainForm{
+  margin: 0 30px;
+}
+.mainForm h3{
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+.dream{
+  background-color: #F3EFFD;
+  color: #10122D;
+  width: 100%;
+  border-radius: 8px;
+  padding: 10px 22px;
+  margin-bottom: 20px;
+}
+.dreamDateTime{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.dream_date{
+  color: #10122D;
+  font-size: 18px;
+  font-weight: 600;
+}
+.dream_time{
+  color: #A6A5BC;
+  font-size: 12px;
+}
+.dream_text{
+  color: #616072;
+  font-size: 12px;
+  line-height: 1.3;
+}
